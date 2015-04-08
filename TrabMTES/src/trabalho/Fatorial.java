@@ -8,4 +8,8 @@ public class Fatorial {
 		else
 			return numero * calcular(numero - 1);
 	}
+	
+	public boolean testeBranch(){
+		return true;
+	}
 }
