@@ -9,7 +9,7 @@ public class Fatorial {
 			return numero * calcular(numero - 1);
 	}
 	
-	public boolean testeBranch(){
-		return true;
+	public boolean testeTrabalho(){
+		return false;
 	}
 }
